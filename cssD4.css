@@ -1,0 +1,18 @@
+
+/*
+Author: Eaman Iranmanesh
+    Date: 02/14/2019
+    Description: CSS Page for deliverable 4 HTML.
+*/
+
+body
+{
+	font-family: TimesNewRoman;
+	font-size: 130%;
+	background-color: lightgray;
+}
+h1
+{
+	font-size: 250%;
+	color: MediumSeaGreen;
+}
